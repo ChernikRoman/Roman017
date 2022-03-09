@@ -20,3 +20,8 @@
     - DOM
     - Асинхронный JS
     - HTTP запросы, localStorage, sessionStorage
+---
+### Некоторые мои работы
+How to learn [Repository](https://github.com/Roman017/how-to-learn) - [GitHub Pages](https://roman017.github.io/how-to-learn)  
+Russian travel [Repository](https://github.com/Roman017/russian-trravel) - [GitHub Pages](https://roman017.github.io/russian-travel)  
+Custom homepage [Repository](https://github.com/Roman017/how-to-learn) - [GitHub Pages](https://roman017.github.io/custom-homepage)  
